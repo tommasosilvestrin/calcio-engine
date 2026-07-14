@@ -1214,7 +1214,7 @@
                     {
                         "squadra": "Messico",
                         "marcatore": "Fidalgo",
-                        "minuto": "94",
+                        "minuto": "90+4",
                         "assist": "Alvarado",
                         "rigore": false
                     }
@@ -1422,7 +1422,7 @@
                         "squadra": "Canada",
                         "uscito": "Eustaquio",
                         "entrato": "Osorio",
-                        "minuto": "91"
+                        "minuto": "90+1"
                     },
                     {
                         "squadra": "Canada",
@@ -1595,7 +1595,7 @@
                     {
                         "squadra": "Qatar",
                         "marcatore": "Muheim",
-                        "minuto": "94",
+                        "minuto": "90+4",
                         "assist": "",
                         "rigore": false,
                         "autogoal": true
@@ -1680,6 +1680,454 @@
                 "espulsioni": []
             },
             "risultato": "1-1"
+        },
+        {
+            "lega": "Mondiale 2026",
+            "giornata": "2",
+            "fase": "girone",
+            "casa": "Svizzera",
+            "trasferta": "Bosnia Erzegovina",
+            "formazioni": {
+                "Svizzera": {
+                    "modulo": "4-3-1-2",
+                    "titolari": [
+                        {
+                            "ruolo": "Portiere",
+                            "nome": "Kobel"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Widmer"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Elvedi"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Akanji"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Rodriguez"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Aebischer"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Xhaka"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Freuler"
+                        },
+                        {
+                            "ruolo": "Trequartista",
+                            "nome": "Rieder"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Embolo"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Ndoye"
+                        }
+                    ]
+                },
+                "Bosnia Erzegovina": {
+                    "modulo": "4-4-2",
+                    "titolari": [
+                        {
+                            "ruolo": "Portiere",
+                            "nome": "Vasilj"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Dedic"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Katic"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Muharemovic"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Kolasinac"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Memic"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Tahirovic"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Sunjic"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Alajbegovic"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Demirovic"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Dzeko"
+                        }
+                    ]
+                }
+            },
+            "eventi": {
+                "goal": [
+                    {
+                        "squadra": "Svizzera",
+                        "marcatore": "Manzambi",
+                        "minuto": "74",
+                        "assist": "",
+                        "rigore": false,
+                        "autogoal": false
+                    },
+                    {
+                        "squadra": "Svizzera",
+                        "marcatore": "Vargas",
+                        "minuto": "84",
+                        "assist": "Embolo",
+                        "rigore": false,
+                        "autogoal": false
+                    },
+                    {
+                        "squadra": "Svizzera",
+                        "marcatore": "Manzambi",
+                        "minuto": "90",
+                        "assist": "Vargas",
+                        "rigore": false,
+                        "autogoal": false
+                    },
+                    {
+                        "squadra": "Svizzera",
+                        "marcatore": "Xhaka",
+                        "minuto": "90+7",
+                        "assist": "",
+                        "rigore": true,
+                        "autogoal": false
+                    },
+                    {
+                        "squadra": "Bosnia Erzegovina",
+                        "marcatore": "Mahmic",
+                        "minuto": "90+3",
+                        "assist": "",
+                        "rigore": false,
+                        "autogoal": false
+                    }
+                ],
+                "sostituzioni": [
+                    {
+                        "squadra": "Svizzera",
+                        "uscito": "Widmer",
+                        "entrato": "Jaquez",
+                        "minuto": "86"
+                    },
+                    {
+                        "squadra": "Svizzera",
+                        "uscito": "Aebischer",
+                        "entrato": "Sow",
+                        "minuto": "71"
+                    },
+                    {
+                        "squadra": "Svizzera",
+                        "uscito": "Rieder",
+                        "entrato": "Vargas",
+                        "minuto": "71"
+                    },
+                    {
+                        "squadra": "Svizzera",
+                        "uscito": "Embolo",
+                        "entrato": "Itten",
+                        "minuto": "89"
+                    },
+                    {
+                        "squadra": "Svizzera",
+                        "uscito": "Ndoye",
+                        "entrato": "Manzambi",
+                        "minuto": "71"
+                    },
+                    {
+                        "squadra": "Bosnia Erzegovina",
+                        "uscito": "Tahirovic",
+                        "entrato": "Basic",
+                        "minuto": "63"
+                    },
+                    {
+                        "squadra": "Bosnia Erzegovina",
+                        "uscito": "Sunjic",
+                        "entrato": "Hadziahmetovic",
+                        "minuto": "86"
+                    },
+                    {
+                        "squadra": "Bosnia Erzegovina",
+                        "uscito": "Alajbegovic",
+                        "entrato": "Mahmic",
+                        "minuto": "90+1"
+                    },
+                    {
+                        "squadra": "Bosnia Erzegovina",
+                        "uscito": "Demirovic",
+                        "entrato": "Lukic",
+                        "minuto": "86"
+                    },
+                    {
+                        "squadra": "Bosnia Erzegovina",
+                        "uscito": "Dzeko",
+                        "entrato": "Bajraktarevic",
+                        "minuto": "64"
+                    }
+                ],
+                "rigori_sbagliati": [],
+                "ammonizioni": [
+                    "Dedic",
+                    "Dzeko",
+                    "Elvedi"
+                ],
+                "espulsioni": [
+                    "Muharemovic"
+                ]
+            },
+            "risultato": "4-1"
+        },
+        {
+            "lega": "Mondiale 2026",
+            "giornata": "2",
+            "fase": "girone",
+            "casa": "Canada",
+            "trasferta": "Qatar",
+            "formazioni": {
+                "Canada": {
+                    "modulo": "4-4-2",
+                    "titolari": [
+                        {
+                            "ruolo": "Portiere",
+                            "nome": "Crepeau"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Johnston"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Fougerolles"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Cornelius"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Laryea"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Buchanan"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "I.Kone"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Eustaquio"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Ahmed"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "J.David"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Larin"
+                        }
+                    ]
+                },
+                "Qatar": {
+                    "modulo": "4-3-3",
+                    "titolari": [
+                        {
+                            "ruolo": "Portiere",
+                            "nome": "Abunada"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Oui"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Miguel"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Khoukhi"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Al-amin"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Abdulsallam"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Madibo"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Laye"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Junior"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Abdurisag"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Afif"
+                        }
+                    ]
+                }
+            },
+            "eventi": {
+                "goal": [
+                    {
+                        "squadra": "Canada",
+                        "marcatore": "Larin",
+                        "minuto": "16",
+                        "assist": "",
+                        "rigore": false,
+                        "autogoal": false
+                    },
+                    {
+                        "squadra": "Canada",
+                        "marcatore": "J.David",
+                        "minuto": "29",
+                        "assist": "",
+                        "rigore": false,
+                        "autogoal": false
+                    },
+                    {
+                        "squadra": "Canada",
+                        "marcatore": "J.David",
+                        "minuto": "45+3",
+                        "assist": "",
+                        "rigore": false,
+                        "autogoal": false
+                    },
+                    {
+                        "squadra": "Canada",
+                        "marcatore": "N.Saliba",
+                        "minuto": "64",
+                        "assist": "",
+                        "rigore": false,
+                        "autogoal": false
+                    },
+                    {
+                        "squadra": "Canada",
+                        "marcatore": "Almanai",
+                        "minuto": "75",
+                        "assist": "",
+                        "rigore": false,
+                        "autogoal": true
+                    },
+                    {
+                        "squadra": "Canada",
+                        "marcatore": "J.David",
+                        "minuto": "90+2",
+                        "assist": "Saliba",
+                        "rigore": false,
+                        "autogoal": false
+                    }
+                ],
+                "sostituzioni": [
+                    {
+                        "squadra": "Canada",
+                        "uscito": "Fougerolles",
+                        "entrato": "Shaffelburg",
+                        "minuto": "71"
+                    },
+                    {
+                        "squadra": "Canada",
+                        "uscito": "Cornelius",
+                        "entrato": "Bombito",
+                        "minuto": "46"
+                    },
+                    {
+                        "squadra": "Canada",
+                        "uscito": "Buchanan",
+                        "entrato": "Sigur",
+                        "minuto": "83"
+                    },
+                    {
+                        "squadra": "Canada",
+                        "uscito": "I.Kone",
+                        "entrato": "Saliba",
+                        "minuto": "57"
+                    },
+                    {
+                        "squadra": "Canada",
+                        "uscito": "Ahmed",
+                        "entrato": "Oluwaseyi",
+                        "minuto": "71"
+                    },
+                    {
+                        "squadra": "Qatar",
+                        "uscito": "Abdulsallam",
+                        "entrato": "Almanai",
+                        "minuto": "46"
+                    },
+                    {
+                        "squadra": "Qatar",
+                        "uscito": "Junior",
+                        "entrato": "Fathi",
+                        "minuto": "46"
+                    },
+                    {
+                        "squadra": "Qatar",
+                        "uscito": "Abdurisag",
+                        "entrato": "Al-brake",
+                        "minuto": "40"
+                    },
+                    {
+                        "squadra": "Qatar",
+                        "uscito": "Afif",
+                        "entrato": "Al-hussain",
+                        "minuto": "59"
+                    }
+                ],
+                "rigori_sbagliati": [],
+                "ammonizioni": [
+                    "Cornelius",
+                    "Fathi"
+                ],
+                "espulsioni": [
+                    "Al-amin",
+                    "Madibo"
+                ]
+            },
+            "risultato": "6-0"
         }
     ],
     "classifiche": {
@@ -1932,44 +2380,44 @@
             },
             "B": {
                 "Canada": {
-                    "punti": 1,
-                    "giocate": 1,
-                    "vinte": 0,
+                    "punti": 4,
+                    "giocate": 2,
+                    "vinte": 1,
                     "pareggiate": 1,
                     "perse": 0,
-                    "gf": 1,
+                    "gf": 7,
                     "gs": 1,
-                    "dr": 0
+                    "dr": 6
                 },
                 "Bosnia Erzegovina": {
                     "punti": 1,
-                    "giocate": 1,
+                    "giocate": 2,
                     "vinte": 0,
                     "pareggiate": 1,
-                    "perse": 0,
-                    "gf": 1,
-                    "gs": 1,
-                    "dr": 0
+                    "perse": 1,
+                    "gf": 2,
+                    "gs": 5,
+                    "dr": -3
                 },
                 "Qatar": {
                     "punti": 1,
-                    "giocate": 1,
+                    "giocate": 2,
                     "vinte": 0,
                     "pareggiate": 1,
-                    "perse": 0,
+                    "perse": 1,
                     "gf": 1,
-                    "gs": 1,
-                    "dr": 0
+                    "gs": 7,
+                    "dr": -6
                 },
                 "Svizzera": {
-                    "punti": 1,
-                    "giocate": 1,
-                    "vinte": 0,
+                    "punti": 4,
+                    "giocate": 2,
+                    "vinte": 1,
                     "pareggiate": 1,
                     "perse": 0,
-                    "gf": 1,
-                    "gs": 1,
-                    "dr": 0
+                    "gf": 5,
+                    "gs": 2,
+                    "dr": 3
                 }
             }
         }
