@@ -1,0 +1,1977 @@
+{
+    "leghe": [
+        {
+            "nome": "Serie A",
+            "nazione": "Italia"
+        },
+        {
+            "nome": "Mondiale 2026",
+            "nazione": "Messico, America, Canada",
+            "tipo": "gironi"
+        }
+    ],
+    "squadre": [
+        {
+            "nome": "Milan",
+            "stadio": "San Siro",
+            "lega": "Serie A"
+        },
+        {
+            "nome": "Monza",
+            "stadio": "U-Power Stadium",
+            "lega": "Serie A"
+        },
+        {
+            "nome": "Fiorentina",
+            "stadio": "Artemio Franchi",
+            "lega": "Serie A"
+        },
+        {
+            "nome": "Roma",
+            "stadio": "Stadio Olimpico",
+            "lega": "Serie A"
+        },
+        {
+            "nome": "Atalanta",
+            "stadio": "New Balance Arena",
+            "lega": "Serie A"
+        },
+        {
+            "nome": "Bologna",
+            "stadio": "Stadio Dall'Ara",
+            "lega": "Serie A"
+        },
+        {
+            "nome": "Cagliari",
+            "stadio": "Unipol Domus",
+            "lega": "Serie A"
+        },
+        {
+            "nome": "Como",
+            "stadio": "Stadio Sinigaglia",
+            "lega": "Serie A"
+        },
+        {
+            "nome": "Frosinone",
+            "stadio": "Stadio Benito Stirpe",
+            "lega": "Serie A"
+        },
+        {
+            "nome": "Genoa",
+            "stadio": "Stadio Marassi",
+            "lega": "Serie A"
+        },
+        {
+            "nome": "Inter",
+            "stadio": "San Siro",
+            "lega": "Serie A"
+        },
+        {
+            "nome": "Juventus",
+            "stadio": "Allianz Stadium",
+            "lega": "Serie A"
+        },
+        {
+            "nome": "Lazio",
+            "stadio": "Stadio Olimpico",
+            "lega": "Serie A"
+        },
+        {
+            "nome": "Parma",
+            "stadio": "Stadio Tardini",
+            "lega": "Serie A"
+        },
+        {
+            "nome": "Sassuolo",
+            "stadio": "Mapei Stadium",
+            "lega": "Serie A"
+        },
+        {
+            "nome": "Napoli",
+            "stadio": "Stadio Maradona",
+            "lega": "Serie A"
+        },
+        {
+            "nome": "Torino",
+            "stadio": "Stadio Olimpico",
+            "lega": "Serie A"
+        },
+        {
+            "nome": "Udinese",
+            "stadio": "Bluenergy Stadium",
+            "lega": "Serie A"
+        },
+        {
+            "nome": "Lecce",
+            "stadio": "Via del Mare",
+            "lega": "Serie A"
+        },
+        {
+            "nome": "Venezia",
+            "stadio": "Stadio Penzo",
+            "lega": "Serie A"
+        },
+        {
+            "nome": "Messico",
+            "stadio": "",
+            "lega": "Mondiale 2026",
+            "girone": "A"
+        },
+        {
+            "nome": "Sudafrica",
+            "stadio": "",
+            "lega": "Mondiale 2026",
+            "girone": "A"
+        },
+        {
+            "nome": "Corea del Sud",
+            "stadio": "",
+            "lega": "Mondiale 2026",
+            "girone": "A"
+        },
+        {
+            "nome": "Repubblica Ceca",
+            "stadio": "",
+            "lega": "Mondiale 2026",
+            "girone": "A"
+        },
+        {
+            "nome": "Canada",
+            "stadio": "",
+            "lega": "Mondiale 2026",
+            "girone": "B"
+        },
+        {
+            "nome": "Bosnia Erzegovina",
+            "stadio": "",
+            "lega": "Mondiale 2026",
+            "girone": "B"
+        },
+        {
+            "nome": "Qatar",
+            "stadio": "",
+            "lega": "Mondiale 2026",
+            "girone": "B"
+        },
+        {
+            "nome": "Svizzera",
+            "stadio": "",
+            "lega": "Mondiale 2026",
+            "girone": "B"
+        }
+    ],
+    "giocatori": [],
+    "partite": [
+        {
+            "lega": "Mondiale 2026",
+            "giornata": "1",
+            "fase": "girone",
+            "casa": "Messico",
+            "trasferta": "Sudafrica",
+            "formazioni": {
+                "Messico": {
+                    "modulo": "4-3-3",
+                    "titolari": [
+                        {
+                            "ruolo": "Portiere",
+                            "nome": "Rangel"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Reyes"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Montes"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Vasquez"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Gallardo"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Gutierrez"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Lira"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Fidalgo"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Alvarado"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Jimenez"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Quinones"
+                        }
+                    ]
+                },
+                "Sudafrica": {
+                    "modulo": "5-3-2",
+                    "titolari": [
+                        {
+                            "ruolo": "Portiere",
+                            "nome": "Williams"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Mudau"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Sibisi"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Okon"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Mbokazi"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Modiba"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Mokoena"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Sithole"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Adams"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Rayners"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Foster"
+                        }
+                    ]
+                }
+            },
+            "eventi": {
+                "goal": [
+                    {
+                        "squadra": "Messico",
+                        "marcatore": "Quinones",
+                        "minuto": "9",
+                        "assist": "Lira",
+                        "rigore": false
+                    },
+                    {
+                        "squadra": "Messico",
+                        "marcatore": "Jimenez",
+                        "minuto": "67",
+                        "assist": "Alvarado",
+                        "rigore": false
+                    }
+                ],
+                "sostituzioni": [
+                    {
+                        "squadra": "Sudafrica",
+                        "uscito": "Foster",
+                        "entrato": "Mbatha",
+                        "minuto": "56"
+                    },
+                    {
+                        "squadra": "Sudafrica",
+                        "uscito": "Adams",
+                        "entrato": "Zwane",
+                        "minuto": "61"
+                    },
+                    {
+                        "squadra": "Messico",
+                        "uscito": "Gutierrez",
+                        "entrato": "Chavez",
+                        "minuto": "66"
+                    },
+                    {
+                        "squadra": "Messico",
+                        "uscito": "Fidalgo",
+                        "entrato": "Mora",
+                        "minuto": "66"
+                    },
+                    {
+                        "squadra": "Messico",
+                        "uscito": "Lira",
+                        "entrato": "Alvarez",
+                        "minuto": "76"
+                    },
+                    {
+                        "squadra": "Messico",
+                        "uscito": "Jimenez",
+                        "entrato": "Gonzalez",
+                        "minuto": "76"
+                    },
+                    {
+                        "squadra": "Sudafrica",
+                        "uscito": "Rayners",
+                        "entrato": "Makgopa",
+                        "minuto": "76"
+                    },
+                    {
+                        "squadra": "Sudafrica",
+                        "uscito": "Modiba",
+                        "entrato": "Appollis",
+                        "minuto": "77"
+                    },
+                    {
+                        "squadra": "Messico",
+                        "uscito": "Quinones",
+                        "entrato": "Vega",
+                        "minuto": "79"
+                    }
+                ],
+                "ammonizioni": [
+                    "Mokoena",
+                    "Gutierrez",
+                    "Sibisi"
+                ],
+                "espulsioni": [
+                    "Sithole",
+                    "Zwane",
+                    "Montes"
+                ]
+            },
+            "risultato": "2-0"
+        },
+        {
+            "lega": "Mondiale 2026",
+            "giornata": "1",
+            "fase": "girone",
+            "casa": "Corea del Sud",
+            "trasferta": "Repubblica Ceca",
+            "formazioni": {
+                "Corea del Sud": {
+                    "modulo": "3-4-3",
+                    "titolari": [
+                        {
+                            "ruolo": "Portiere",
+                            "nome": "Seung-gyu"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "H.Lee"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Min-jae"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "G.Lee"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Seol"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "In-beom"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Paik"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "T.Lee"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "K.Lee"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Son"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "J.Lee"
+                        }
+                    ]
+                },
+                "Repubblica Ceca": {
+                    "modulo": "3-4-3",
+                    "titolari": [
+                        {
+                            "ruolo": "Portiere",
+                            "nome": "Kovar"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Chaloupek"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Hranac"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Krejci"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Coufal"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Soucek"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Sojka"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Zeleny"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Provod"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Schick"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Sulc"
+                        }
+                    ]
+                }
+            },
+            "eventi": {
+                "goal": [
+                    {
+                        "squadra": "Repubblica Ceca",
+                        "marcatore": "Krejci",
+                        "minuto": "59",
+                        "assist": "Coufal",
+                        "rigore": false
+                    },
+                    {
+                        "squadra": "Corea del Sud",
+                        "marcatore": "In-beom",
+                        "minuto": "67",
+                        "assist": "K.Lee",
+                        "rigore": false
+                    },
+                    {
+                        "squadra": "Corea del Sud",
+                        "marcatore": "Oh",
+                        "minuto": "80",
+                        "assist": "In-beom",
+                        "rigore": false
+                    }
+                ],
+                "sostituzioni": [
+                    {
+                        "squadra": "Corea del Sud",
+                        "uscito": "J.Lee",
+                        "entrato": "Hee-chan",
+                        "minuto": "62"
+                    },
+                    {
+                        "squadra": "Repubblica Ceca",
+                        "uscito": "Sulc",
+                        "entrato": "Hlozek",
+                        "minuto": "64"
+                    },
+                    {
+                        "squadra": "Repubblica Ceca",
+                        "uscito": "Schick",
+                        "entrato": "Chory",
+                        "minuto": "64"
+                    },
+                    {
+                        "squadra": "Repubblica Ceca",
+                        "uscito": "Provod",
+                        "entrato": "Sadilek",
+                        "minuto": "64"
+                    },
+                    {
+                        "squadra": "Corea del Sud",
+                        "uscito": "T.Lee",
+                        "entrato": "Eom",
+                        "minuto": "69"
+                    },
+                    {
+                        "squadra": "Corea del Sud",
+                        "uscito": "Son",
+                        "entrato": "Oh",
+                        "minuto": "69"
+                    },
+                    {
+                        "squadra": "Corea del Sud",
+                        "uscito": "In-beom",
+                        "entrato": "J.Kim",
+                        "minuto": "84"
+                    },
+                    {
+                        "squadra": "Corea del Sud",
+                        "uscito": "Paik",
+                        "entrato": "Park",
+                        "minuto": "84"
+                    },
+                    {
+                        "squadra": "Repubblica Ceca",
+                        "uscito": "Sojka",
+                        "entrato": "Chytil",
+                        "minuto": "84"
+                    }
+                ],
+                "ammonizioni": [
+                    "G.Lee"
+                ],
+                "espulsioni": []
+            },
+            "risultato": "2-1"
+        },
+        {
+            "lega": "Mondiale 2026",
+            "giornata": "2",
+            "fase": "girone",
+            "casa": "Repubblica Ceca",
+            "trasferta": "Sudafrica",
+            "formazioni": {
+                "Repubblica Ceca": {
+                    "modulo": "3-5-2",
+                    "titolari": [
+                        {
+                            "ruolo": "Portiere",
+                            "nome": "Kovar"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Holes"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Hranac"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Krejci"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Coufal"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Darida"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Cerv"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Sadilek"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Sojka"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Schick"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Hlozek"
+                        }
+                    ]
+                },
+                "Sudafrica": {
+                    "modulo": "4-3-3",
+                    "titolari": [
+                        {
+                            "ruolo": "Portiere",
+                            "nome": "Williams"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Mudau"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Okon"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Mbokazi"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Modiba"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Mbatha"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Mokoena"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Adams"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Maseko"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Rayners"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Appollis"
+                        }
+                    ]
+                }
+            },
+            "eventi": {
+                "goal": [
+                    {
+                        "squadra": "Repubblica Ceca",
+                        "marcatore": "Sadilek",
+                        "minuto": "6",
+                        "assist": "Sojka",
+                        "rigore": false
+                    },
+                    {
+                        "squadra": "Sudafrica",
+                        "marcatore": "Mokoena",
+                        "minuto": "83",
+                        "assist": "",
+                        "rigore": true
+                    }
+                ],
+                "sostituzioni": [
+                    {
+                        "squadra": "Sudafrica",
+                        "uscito": "Adams",
+                        "entrato": "Mofokeng",
+                        "minuto": "46"
+                    },
+                    {
+                        "squadra": "Repubblica Ceca",
+                        "uscito": "Darida",
+                        "entrato": "Sulc",
+                        "minuto": "55"
+                    },
+                    {
+                        "squadra": "Repubblica Ceca",
+                        "uscito": "Sojka",
+                        "entrato": "Zeleny",
+                        "minuto": "55"
+                    },
+                    {
+                        "squadra": "Sudafrica",
+                        "uscito": "Rayners",
+                        "entrato": "Makgopa",
+                        "minuto": "66"
+                    },
+                    {
+                        "squadra": "Repubblica Ceca",
+                        "uscito": "Sadilek",
+                        "entrato": "Soucek",
+                        "minuto": "67"
+                    },
+                    {
+                        "squadra": "Repubblica Ceca",
+                        "uscito": "Hlozek",
+                        "entrato": "Provod",
+                        "minuto": "67"
+                    },
+                    {
+                        "squadra": "Repubblica Ceca",
+                        "uscito": "Cerv",
+                        "entrato": "Zima",
+                        "minuto": "78"
+                    },
+                    {
+                        "squadra": "Sudafrica",
+                        "uscito": "Maseko",
+                        "entrato": "Sebelebele",
+                        "minuto": "84"
+                    }
+                ],
+                "ammonizioni": [
+                    "Mokoena",
+                    "Mbatha",
+                    "Krejci"
+                ],
+                "espulsioni": []
+            },
+            "risultato": "1-1"
+        },
+        {
+            "lega": "Mondiale 2026",
+            "giornata": "2",
+            "fase": "girone",
+            "casa": "Messico",
+            "trasferta": "Corea del Sud",
+            "formazioni": {
+                "Messico": {
+                    "modulo": "4-3-3",
+                    "titolari": [
+                        {
+                            "ruolo": "Portiere",
+                            "nome": "Rangel"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Sanchez"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Alvarez"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Vasquez"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Gallardo"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Gutierrez"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Lira"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Romo"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Alvarado"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Jimenez"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Quinones"
+                        }
+                    ]
+                },
+                "Corea del Sud": {
+                    "modulo": "3-4-3",
+                    "titolari": [
+                        {
+                            "ruolo": "Portiere",
+                            "nome": "Seung-gyu"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "H.Lee"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Min-jae"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "G.Lee"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Kim"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "In-beom"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Paik"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Seol"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "K.Lee"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Son"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "J.Lee"
+                        }
+                    ]
+                }
+            },
+            "eventi": {
+                "goal": [
+                    {
+                        "squadra": "Messico",
+                        "marcatore": "Romo",
+                        "minuto": "50",
+                        "assist": "",
+                        "rigore": false
+                    }
+                ],
+                "sostituzioni": [
+                    {
+                        "squadra": "Corea del Sud",
+                        "uscito": "J.Lee",
+                        "entrato": "Hee-chan",
+                        "minuto": "57"
+                    },
+                    {
+                        "squadra": "Corea del Sud",
+                        "uscito": "Son",
+                        "entrato": "Oh",
+                        "minuto": "57"
+                    },
+                    {
+                        "squadra": "Messico",
+                        "uscito": "Gutierrez",
+                        "entrato": "Pineda",
+                        "minuto": "71"
+                    },
+                    {
+                        "squadra": "Messico",
+                        "uscito": "Romo",
+                        "entrato": "Vargas",
+                        "minuto": "71"
+                    },
+                    {
+                        "squadra": "Corea del Sud",
+                        "uscito": "Kim",
+                        "entrato": "Eom",
+                        "minuto": "71"
+                    },
+                    {
+                        "squadra": "Corea del Sud",
+                        "uscito": "Seol",
+                        "entrato": "Hyun-jun",
+                        "minuto": "71"
+                    },
+                    {
+                        "squadra": "Corea del Sud",
+                        "uscito": "Paik",
+                        "entrato": "Cho",
+                        "minuto": "77"
+                    },
+                    {
+                        "squadra": "Messico",
+                        "uscito": "Alvarado",
+                        "entrato": "Reyes",
+                        "minuto": "80"
+                    },
+                    {
+                        "squadra": "Messico",
+                        "uscito": "Jimenez",
+                        "entrato": "Gimenez",
+                        "minuto": "80"
+                    },
+                    {
+                        "squadra": "Messico",
+                        "uscito": "Quinones",
+                        "entrato": "Huerta",
+                        "minuto": "84"
+                    }
+                ],
+                "ammonizioni": [
+                    "K.Lee",
+                    "Paik"
+                ],
+                "espulsioni": []
+            },
+            "risultato": "1-0"
+        },
+        {
+            "lega": "Mondiale 2026",
+            "giornata": "3",
+            "fase": "girone",
+            "casa": "Sudafrica",
+            "trasferta": "Corea del Sud",
+            "formazioni": {
+                "Sudafrica": {
+                    "modulo": "4-2-3-1",
+                    "titolari": [
+                        {
+                            "ruolo": "Portiere",
+                            "nome": "Williams"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Mudau"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Okon"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Mbokazi"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Modiba"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Mbatha"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Sithole"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Maseko"
+                        },
+                        {
+                            "ruolo": "Trequartista",
+                            "nome": "Mofokeng"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Appollis"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Makgopa"
+                        }
+                    ]
+                },
+                "Corea del Sud": {
+                    "modulo": "3-4-3",
+                    "titolari": [
+                        {
+                            "ruolo": "Portiere",
+                            "nome": "Seung-gyu"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "H.Lee"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Min-jae"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "G.Lee"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Seol"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Paik"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "In-beom"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "T.Lee"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "K.Lee"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Oh"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Hee-chan"
+                        }
+                    ]
+                }
+            },
+            "eventi": {
+                "goal": [
+                    {
+                        "squadra": "Sudafrica",
+                        "marcatore": "Maseko",
+                        "minuto": "63",
+                        "assist": "Moremi",
+                        "rigore": false
+                    }
+                ],
+                "sostituzioni": [
+                    {
+                        "squadra": "Corea del Sud",
+                        "uscito": "Hee-chan",
+                        "entrato": "Son",
+                        "minuto": "46"
+                    },
+                    {
+                        "squadra": "Corea del Sud",
+                        "uscito": "Paik",
+                        "entrato": "Kim",
+                        "minuto": "46"
+                    },
+                    {
+                        "squadra": "Corea del Sud",
+                        "uscito": "T.Lee",
+                        "entrato": "Castrop",
+                        "minuto": "46"
+                    },
+                    {
+                        "squadra": "Sudafrica",
+                        "uscito": "Appollis",
+                        "entrato": "Moremi",
+                        "minuto": "62"
+                    },
+                    {
+                        "squadra": "Corea del Sud",
+                        "uscito": "Min-jae",
+                        "entrato": "Park",
+                        "minuto": "65"
+                    },
+                    {
+                        "squadra": "Corea del Sud",
+                        "uscito": "Oh",
+                        "entrato": "Cho",
+                        "minuto": "74"
+                    },
+                    {
+                        "squadra": "Sudafrica",
+                        "uscito": "Maseko",
+                        "entrato": "Rayners",
+                        "minuto": "75"
+                    },
+                    {
+                        "squadra": "Sudafrica",
+                        "uscito": "Mofokeng",
+                        "entrato": "Adams",
+                        "minuto": "80"
+                    }
+                ],
+                "ammonizioni": [
+                    "Modiba",
+                    "Cho"
+                ],
+                "espulsioni": []
+            },
+            "risultato": "1-0"
+        },
+        {
+            "lega": "Mondiale 2026",
+            "giornata": "3",
+            "fase": "girone",
+            "casa": "Repubblica Ceca",
+            "trasferta": "Messico",
+            "formazioni": {
+                "Repubblica Ceca": {
+                    "modulo": "3-4-3",
+                    "titolari": [
+                        {
+                            "ruolo": "Portiere",
+                            "nome": "Kovar"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Holes"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Hranac"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Krejci"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Coufal"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Cerv"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Sadilek"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Doudera"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Sulc"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Hlozek"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Visinsky"
+                        }
+                    ]
+                },
+                "Messico": {
+                    "modulo": "4-3-3",
+                    "titolari": [
+                        {
+                            "ruolo": "Portiere",
+                            "nome": "Rangel"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Sanchez"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Montes"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Reyes"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Chavez"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Mora"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Alvarez"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Romo"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Alvarado"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Martinez"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Quinones"
+                        }
+                    ]
+                }
+            },
+            "eventi": {
+                "goal": [
+                    {
+                        "squadra": "Messico",
+                        "marcatore": "Chavez",
+                        "minuto": "55",
+                        "assist": "Romo",
+                        "rigore": false
+                    },
+                    {
+                        "squadra": "Messico",
+                        "marcatore": "Quinones",
+                        "minuto": "61",
+                        "assist": "Sanchez",
+                        "rigore": false
+                    },
+                    {
+                        "squadra": "Messico",
+                        "marcatore": "Fidalgo",
+                        "minuto": "94",
+                        "assist": "Alvarado",
+                        "rigore": false
+                    }
+                ],
+                "sostituzioni": [
+                    {
+                        "squadra": "Repubblica Ceca",
+                        "uscito": "Visinsky",
+                        "entrato": "Provod",
+                        "minuto": "56"
+                    },
+                    {
+                        "squadra": "Messico",
+                        "uscito": "Martinez",
+                        "entrato": "Gimenez",
+                        "minuto": "63"
+                    },
+                    {
+                        "squadra": "Messico",
+                        "uscito": "Romo",
+                        "entrato": "Vargas",
+                        "minuto": "63"
+                    },
+                    {
+                        "squadra": "Repubblica Ceca",
+                        "uscito": "Hlozek",
+                        "entrato": "Schick",
+                        "minuto": "64"
+                    },
+                    {
+                        "squadra": "Repubblica Ceca",
+                        "uscito": "Holes",
+                        "entrato": "Soucek",
+                        "minuto": "64"
+                    },
+                    {
+                        "squadra": "Messico",
+                        "uscito": "Mora",
+                        "entrato": "Fidalgo",
+                        "minuto": "72"
+                    },
+                    {
+                        "squadra": "Messico",
+                        "uscito": "Rangel",
+                        "entrato": "Ochoa",
+                        "minuto": "78"
+                    },
+                    {
+                        "squadra": "Messico",
+                        "uscito": "Chavez",
+                        "entrato": "Gallardo",
+                        "minuto": "78"
+                    },
+                    {
+                        "squadra": "Repubblica Ceca",
+                        "uscito": "Cerv",
+                        "entrato": "Chory",
+                        "minuto": "87"
+                    },
+                    {
+                        "squadra": "Repubblica Ceca",
+                        "uscito": "Soucek",
+                        "entrato": "Sojka",
+                        "minuto": "87"
+                    }
+                ],
+                "ammonizioni": [
+                    "Alvarez"
+                ],
+                "espulsioni": []
+            },
+            "risultato": "0-3"
+        },
+        {
+            "lega": "Mondiale 2026",
+            "giornata": "1",
+            "fase": "girone",
+            "casa": "Canada",
+            "trasferta": "Bosnia Erzegovina",
+            "formazioni": {
+                "Canada": {
+                    "modulo": "4-4-2",
+                    "titolari": [
+                        {
+                            "ruolo": "Portiere",
+                            "nome": "Crepeau"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Johnston"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Fougerolles"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Cornelius"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Laryea"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Buchanan"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "I.Konè"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Eustaquio"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Millar"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "J.David"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Oluwaseyi"
+                        }
+                    ]
+                },
+                "Bosnia Erzegovina": {
+                    "modulo": "4-4-2",
+                    "titolari": [
+                        {
+                            "ruolo": "Portiere",
+                            "nome": "Vasilj"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Dedic"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Katic"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Muharemovic"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Kolasinac"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Bajraktarevic"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Tahirovic"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Basic"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Memic"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Demirovic"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Lukic"
+                        }
+                    ]
+                }
+            },
+            "eventi": {
+                "goal": [
+                    {
+                        "squadra": "Canada",
+                        "marcatore": "Larin",
+                        "minuto": "78",
+                        "assist": "P.David",
+                        "rigore": false
+                    },
+                    {
+                        "squadra": "Bosnia Erzegovina",
+                        "marcatore": "Lukic",
+                        "minuto": "21",
+                        "assist": "Kolasinac",
+                        "rigore": false
+                    }
+                ],
+                "sostituzioni": [
+                    {
+                        "squadra": "Canada",
+                        "uscito": "Buchanan",
+                        "entrato": "Ahmed",
+                        "minuto": "61"
+                    },
+                    {
+                        "squadra": "Canada",
+                        "uscito": "Eustaquio",
+                        "entrato": "Osorio",
+                        "minuto": "91"
+                    },
+                    {
+                        "squadra": "Canada",
+                        "uscito": "Millar",
+                        "entrato": "Shaffelburg",
+                        "minuto": "61"
+                    },
+                    {
+                        "squadra": "Canada",
+                        "uscito": "J.David",
+                        "entrato": "P.David",
+                        "minuto": "61"
+                    },
+                    {
+                        "squadra": "Canada",
+                        "uscito": "Oluwaseyi",
+                        "entrato": "Larin",
+                        "minuto": "76"
+                    },
+                    {
+                        "squadra": "Bosnia Erzegovina",
+                        "uscito": "Kolasinac",
+                        "entrato": "Burnic",
+                        "minuto": "84"
+                    },
+                    {
+                        "squadra": "Bosnia Erzegovina",
+                        "uscito": "Bajraktarevic",
+                        "entrato": "Sunjic",
+                        "minuto": "74"
+                    },
+                    {
+                        "squadra": "Bosnia Erzegovina",
+                        "uscito": "Basic",
+                        "entrato": "Gigovic",
+                        "minuto": "62"
+                    },
+                    {
+                        "squadra": "Bosnia Erzegovina",
+                        "uscito": "Memic",
+                        "entrato": "Alajbegovic",
+                        "minuto": "74"
+                    },
+                    {
+                        "squadra": "Bosnia Erzegovina",
+                        "uscito": "Lukic",
+                        "entrato": "Bazdar",
+                        "minuto": "62"
+                    }
+                ],
+                "ammonizioni": [
+                    "Johnston",
+                    "Demirovic",
+                    "Lukic",
+                    "Fougerolles",
+                    "Katic"
+                ],
+                "espulsioni": []
+            },
+            "risultato": "1-1"
+        },
+        {
+            "lega": "Mondiale 2026",
+            "giornata": "1",
+            "fase": "girone",
+            "casa": "Qatar",
+            "trasferta": "Svizzera",
+            "formazioni": {
+                "Qatar": {
+                    "modulo": "4-3-3",
+                    "titolari": [
+                        {
+                            "ruolo": "Portiere",
+                            "nome": "Abunada"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Oui"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Miguel"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Khoukhi"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Al-amin"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Abdulsallam"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Madibo"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Laye"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Junior"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Abdurisag"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Afif"
+                        }
+                    ]
+                },
+                "Svizzera": {
+                    "modulo": "4-3-3",
+                    "titolari": [
+                        {
+                            "ruolo": "Portiere",
+                            "nome": "Kobel"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Zakaria"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Elvedi"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Akanji"
+                        },
+                        {
+                            "ruolo": "Difensore",
+                            "nome": "Rodriguez"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Aebischer"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Xhaka"
+                        },
+                        {
+                            "ruolo": "Centrocampista",
+                            "nome": "Freuler"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Ndoye"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Embolo"
+                        },
+                        {
+                            "ruolo": "Attaccante",
+                            "nome": "Vargas"
+                        }
+                    ]
+                }
+            },
+            "eventi": {
+                "goal": [
+                    {
+                        "squadra": "Qatar",
+                        "marcatore": "Muheim",
+                        "minuto": "94",
+                        "assist": "",
+                        "rigore": false,
+                        "autogoal": true
+                    },
+                    {
+                        "squadra": "Svizzera",
+                        "marcatore": "Embolo",
+                        "minuto": "17",
+                        "assist": "",
+                        "rigore": true,
+                        "autogoal": false
+                    }
+                ],
+                "sostituzioni": [
+                    {
+                        "squadra": "Qatar",
+                        "uscito": "Oui",
+                        "entrato": "Fathi",
+                        "minuto": "60"
+                    },
+                    {
+                        "squadra": "Qatar",
+                        "uscito": "Abdulsallam",
+                        "entrato": "Boudiaf",
+                        "minuto": "60"
+                    },
+                    {
+                        "squadra": "Qatar",
+                        "uscito": "Madibo",
+                        "entrato": "Almanai",
+                        "minuto": "79"
+                    },
+                    {
+                        "squadra": "Qatar",
+                        "uscito": "Junior",
+                        "entrato": "Haydos",
+                        "minuto": "88"
+                    },
+                    {
+                        "squadra": "Qatar",
+                        "uscito": "Abdurisag",
+                        "entrato": "Alaaeldin",
+                        "minuto": "60"
+                    },
+                    {
+                        "squadra": "Svizzera",
+                        "uscito": "Rodriguez",
+                        "entrato": "Muheim",
+                        "minuto": "89"
+                    },
+                    {
+                        "squadra": "Svizzera",
+                        "uscito": "Aebischer",
+                        "entrato": "Rieder",
+                        "minuto": "65"
+                    },
+                    {
+                        "squadra": "Svizzera",
+                        "uscito": "Freuler",
+                        "entrato": "Jashari",
+                        "minuto": "89"
+                    },
+                    {
+                        "squadra": "Svizzera",
+                        "uscito": "Ndoye",
+                        "entrato": "Manzambi",
+                        "minuto": "65"
+                    },
+                    {
+                        "squadra": "Svizzera",
+                        "uscito": "Vargas",
+                        "entrato": "Amdouni",
+                        "minuto": "79"
+                    }
+                ],
+                "rigori_sbagliati": [],
+                "ammonizioni": [
+                    "Abunada",
+                    "Abdulsallam",
+                    "Zakaria"
+                ],
+                "espulsioni": []
+            },
+            "risultato": "1-1"
+        }
+    ],
+    "classifiche": {
+        "Serie A": {
+            "Unico": {
+                "Milan": {
+                    "punti": 0,
+                    "giocate": 0,
+                    "vinte": 0,
+                    "pareggiate": 0,
+                    "perse": 0,
+                    "gf": 0,
+                    "gs": 0,
+                    "dr": 0
+                },
+                "Monza": {
+                    "punti": 0,
+                    "giocate": 0,
+                    "vinte": 0,
+                    "pareggiate": 0,
+                    "perse": 0,
+                    "gf": 0,
+                    "gs": 0,
+                    "dr": 0
+                },
+                "Fiorentina": {
+                    "punti": 0,
+                    "giocate": 0,
+                    "vinte": 0,
+                    "pareggiate": 0,
+                    "perse": 0,
+                    "gf": 0,
+                    "gs": 0,
+                    "dr": 0
+                },
+                "Roma": {
+                    "punti": 0,
+                    "giocate": 0,
+                    "vinte": 0,
+                    "pareggiate": 0,
+                    "perse": 0,
+                    "gf": 0,
+                    "gs": 0,
+                    "dr": 0
+                },
+                "Atalanta": {
+                    "punti": 0,
+                    "giocate": 0,
+                    "vinte": 0,
+                    "pareggiate": 0,
+                    "perse": 0,
+                    "gf": 0,
+                    "gs": 0,
+                    "dr": 0
+                },
+                "Bologna": {
+                    "punti": 0,
+                    "giocate": 0,
+                    "vinte": 0,
+                    "pareggiate": 0,
+                    "perse": 0,
+                    "gf": 0,
+                    "gs": 0,
+                    "dr": 0
+                },
+                "Cagliari": {
+                    "punti": 0,
+                    "giocate": 0,
+                    "vinte": 0,
+                    "pareggiate": 0,
+                    "perse": 0,
+                    "gf": 0,
+                    "gs": 0,
+                    "dr": 0
+                },
+                "Como": {
+                    "punti": 0,
+                    "giocate": 0,
+                    "vinte": 0,
+                    "pareggiate": 0,
+                    "perse": 0,
+                    "gf": 0,
+                    "gs": 0,
+                    "dr": 0
+                },
+                "Frosinone": {
+                    "punti": 0,
+                    "giocate": 0,
+                    "vinte": 0,
+                    "pareggiate": 0,
+                    "perse": 0,
+                    "gf": 0,
+                    "gs": 0,
+                    "dr": 0
+                },
+                "Genoa": {
+                    "punti": 0,
+                    "giocate": 0,
+                    "vinte": 0,
+                    "pareggiate": 0,
+                    "perse": 0,
+                    "gf": 0,
+                    "gs": 0,
+                    "dr": 0
+                },
+                "Inter": {
+                    "punti": 0,
+                    "giocate": 0,
+                    "vinte": 0,
+                    "pareggiate": 0,
+                    "perse": 0,
+                    "gf": 0,
+                    "gs": 0,
+                    "dr": 0
+                },
+                "Juventus": {
+                    "punti": 0,
+                    "giocate": 0,
+                    "vinte": 0,
+                    "pareggiate": 0,
+                    "perse": 0,
+                    "gf": 0,
+                    "gs": 0,
+                    "dr": 0
+                },
+                "Lazio": {
+                    "punti": 0,
+                    "giocate": 0,
+                    "vinte": 0,
+                    "pareggiate": 0,
+                    "perse": 0,
+                    "gf": 0,
+                    "gs": 0,
+                    "dr": 0
+                },
+                "Parma": {
+                    "punti": 0,
+                    "giocate": 0,
+                    "vinte": 0,
+                    "pareggiate": 0,
+                    "perse": 0,
+                    "gf": 0,
+                    "gs": 0,
+                    "dr": 0
+                },
+                "Sassuolo": {
+                    "punti": 0,
+                    "giocate": 0,
+                    "vinte": 0,
+                    "pareggiate": 0,
+                    "perse": 0,
+                    "gf": 0,
+                    "gs": 0,
+                    "dr": 0
+                },
+                "Napoli": {
+                    "punti": 0,
+                    "giocate": 0,
+                    "vinte": 0,
+                    "pareggiate": 0,
+                    "perse": 0,
+                    "gf": 0,
+                    "gs": 0,
+                    "dr": 0
+                },
+                "Torino": {
+                    "punti": 0,
+                    "giocate": 0,
+                    "vinte": 0,
+                    "pareggiate": 0,
+                    "perse": 0,
+                    "gf": 0,
+                    "gs": 0,
+                    "dr": 0
+                },
+                "Udinese": {
+                    "punti": 0,
+                    "giocate": 0,
+                    "vinte": 0,
+                    "pareggiate": 0,
+                    "perse": 0,
+                    "gf": 0,
+                    "gs": 0,
+                    "dr": 0
+                },
+                "Lecce": {
+                    "punti": 0,
+                    "giocate": 0,
+                    "vinte": 0,
+                    "pareggiate": 0,
+                    "perse": 0,
+                    "gf": 0,
+                    "gs": 0,
+                    "dr": 0
+                },
+                "Venezia": {
+                    "punti": 0,
+                    "giocate": 0,
+                    "vinte": 0,
+                    "pareggiate": 0,
+                    "perse": 0,
+                    "gf": 0,
+                    "gs": 0,
+                    "dr": 0
+                }
+            }
+        },
+        "Mondiale 2026": {
+            "A": {
+                "Messico": {
+                    "punti": 9,
+                    "giocate": 3,
+                    "vinte": 3,
+                    "pareggiate": 0,
+                    "perse": 0,
+                    "gf": 6,
+                    "gs": 0,
+                    "dr": 6
+                },
+                "Sudafrica": {
+                    "punti": 4,
+                    "giocate": 3,
+                    "vinte": 1,
+                    "pareggiate": 1,
+                    "perse": 1,
+                    "gf": 2,
+                    "gs": 3,
+                    "dr": -1
+                },
+                "Corea del Sud": {
+                    "punti": 3,
+                    "giocate": 3,
+                    "vinte": 1,
+                    "pareggiate": 0,
+                    "perse": 2,
+                    "gf": 2,
+                    "gs": 3,
+                    "dr": -1
+                },
+                "Repubblica Ceca": {
+                    "punti": 1,
+                    "giocate": 3,
+                    "vinte": 0,
+                    "pareggiate": 1,
+                    "perse": 2,
+                    "gf": 2,
+                    "gs": 6,
+                    "dr": -4
+                }
+            },
+            "B": {
+                "Canada": {
+                    "punti": 1,
+                    "giocate": 1,
+                    "vinte": 0,
+                    "pareggiate": 1,
+                    "perse": 0,
+                    "gf": 1,
+                    "gs": 1,
+                    "dr": 0
+                },
+                "Bosnia Erzegovina": {
+                    "punti": 1,
+                    "giocate": 1,
+                    "vinte": 0,
+                    "pareggiate": 1,
+                    "perse": 0,
+                    "gf": 1,
+                    "gs": 1,
+                    "dr": 0
+                },
+                "Qatar": {
+                    "punti": 1,
+                    "giocate": 1,
+                    "vinte": 0,
+                    "pareggiate": 1,
+                    "perse": 0,
+                    "gf": 1,
+                    "gs": 1,
+                    "dr": 0
+                },
+                "Svizzera": {
+                    "punti": 1,
+                    "giocate": 1,
+                    "vinte": 0,
+                    "pareggiate": 1,
+                    "perse": 0,
+                    "gf": 1,
+                    "gs": 1,
+                    "dr": 0
+                }
+            }
+        }
+    }
+}
